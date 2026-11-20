@@ -1,0 +1,11 @@
+{
+  "name": "vibe-studio-os",
+  "displayName": "Vibe Studio OS",
+  "description": "The Startup Operating System for vibe coders. Turn app and business ideas into production-ready software without costly mistakes.",
+  "version": "1.0.0",
+  "suggestedPrompts": [
+    "I have an idea for a new app, let's start the vibe-studio-os intake",
+    "Show me the current project board and our next milestone",
+    "Run a security and cost audit on our current codebase"
+  ]
+}
